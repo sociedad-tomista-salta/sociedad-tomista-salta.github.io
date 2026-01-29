@@ -95,6 +95,9 @@ section {
     background-color: #FFFFFF;
     border-left: 5px solid #C2A878;
     box-shadow: 0 0 15px rgba(0,0,0,0.08);
+   overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
 }
 
 section h2 {
